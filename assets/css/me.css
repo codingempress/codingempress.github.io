@@ -107,14 +107,15 @@ body.page-template-page-fullsingle-me {
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
-    margin-bottom: 28px;
+    margin-bottom: 800px;
     color: #fff;
   background: #2b3b2e;
-padding: 8px;}
+padding: 20px;
+width: 200px;}
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
-        line-height: 40px; } }
+        line-height: 400px; } }
 
 .fs-me {
   padding: 10vh 10vw;
